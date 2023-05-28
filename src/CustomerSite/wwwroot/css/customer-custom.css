@@ -12,7 +12,7 @@
 }
 
 .cm-top-nav-bar {
-    background-color: #004578 !important;
+    background-color: #333132 !important;
     margin-bottom: 0px;
     border: 0px;
     height:48px;
@@ -353,10 +353,10 @@ a.cm-dropdown-option {
     width: 1300px !important;
 }
 
-
 .mr420 {
     margin-right: !important;
 }
+
 .red-star {
     color: red;
 }
